@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Varshney</h1>
-<h3 align="center">FullStack Android Developer </h3>
+<h3 align="center">FullStack Android and IOS Developer </h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anshv.netlify.app/](https://portfolio-anshv.netlify.app/)
 - 💬 Ask me about **React Native, Node.js, Flutter, Express, MongoDB**
